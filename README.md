@@ -4,6 +4,6 @@
 - :books: I’m currently learning new things about Front End Development, such as JavaScript/Jquery, Saas and Less, Responsive Design, UX/UI, etc..
 - :bulb: I’m looking to collaborate on Front End Projects!
 - 💬 Ask me about anything, i'm open for new contacts and knowledge! 
-- :computer: How to reach me: [LinkedIn](https://www.linkedin.com/in/ti-viniciussilvapereira/)
+-  🚀 How to reach me for professional contact: [LinkedIn](https://www.linkedin.com/in/ti-viniciussilvapereira/)
 - ⚡ Fun fact: I love art! :art: Check out my [Instagram](https://www.instagram.com/cademeubrush/) and my [Youtube Channel](https://www.youtube.com/channel/UCurV1GKruMOZTWwoRqEPg1Q/videos)
 
